@@ -2,6 +2,8 @@
 
 ## ehem. Aushilfskassierer
 
+A overview of the topics that are explained in the notebooks to experience Python basics and more.  
+
 |Notebooks and Titles|
 |----|
 |[001 Datatypes](https://github.com/ehemAushilfskassierer/BasicPythonStatistic/blob/main/PythonBasics/001_Basic_Python.ipynb)|
@@ -24,4 +26,3 @@
 * 🎵 [TikTok](https://www.tiktok.com/@ehem.aushilfskassierer)
 * 💼 [LinkedIn](https://www.linkedin.com/in/jan-eric-keller)
 * 📊 [Kaggle](https://www.kaggle.com/whatthedatahastotell)
-![image](https://github.com/user-attachments/assets/34fb30ad-9944-4767-8437-8ddd390036cf)
