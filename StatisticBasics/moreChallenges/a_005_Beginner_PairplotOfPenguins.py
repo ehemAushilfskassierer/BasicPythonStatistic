@@ -17,5 +17,4 @@ dfPenguins = dfPenguins.dropna()
 g = sns.pairplot(data=dfPenguins, hue="species")
 g.fig.suptitle("Pairplot of numeric features by species\nPenguins Dataset",
                y=1.02, fontsize=14)
-
 plt.show()
