@@ -1,5 +1,5 @@
 """
-005_Upper
+005_UpperIntermediat_TypeChecking
 
 Type Checking
 Use isinstance() to check if 3.14 is a float.
