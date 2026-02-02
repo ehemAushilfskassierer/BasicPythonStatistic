@@ -49,10 +49,10 @@ A overview of the topics that are explained in the notebooks to experience Pytho
 
 ## Basic Statistics
 
-|Notebooks and Titles|
-|----|
-|[001 ...](https://github.com/ehemAushilfskassierer/BasicPythonStatistic/blob/main/StatisticBasics/001_Basic_Statistic.ipynb)|
-|...|...|
+| Notebooks and Titles                                                                                                                             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| [001 mean median mode](https://github.com/ehemAushilfskassierer/BasicPythonStatistic/blob/main/StatisticBasics/001_Basic_Statistic.ipynb)        |
+| [002 measures of dispersion](https://github.com/ehemAushilfskassierer/BasicPythonStatistic/blob/main/StatisticBasics/002_Basic_Statistic.ipynb)  |
 
 ### Basic exercises to reinforce the content of basic statistics
 |Level|File and Title|
